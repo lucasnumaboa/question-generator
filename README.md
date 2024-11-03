@@ -16,13 +16,8 @@ Um aplicativo Python com interface gráfica que permite aos usuários gerar ques
 
 - **Python 3.6+**: Certifique-se de ter o Python instalado. Baixe [aqui](https://www.python.org/downloads/).
 
-### Clonar o Repositório
 
-```bash
-git clone https://github.com/seuusuario/quiz-html-generator.git
-cd quiz-html-generator
-
-
+## Funcionalidades
 Instalar Dependências
 Recomenda-se o uso de um ambiente virtual para isolar as dependências do projeto.
 
@@ -87,3 +82,11 @@ Nome do Arquivo: meu_questionario
 Título do HTML: Quiz de Conhecimentos Gerais
 Quantidade de Alternativas: 4
 Resultado: Um arquivo chamado meu_questionario.html será criado na sua área de trabalho com o título especificado e as perguntas formatadas.
+
+
+
+### Clonar o Repositório
+
+```bash
+git clone https://github.com/seuusuario/quiz-html-generator.git
+cd quiz-html-generator
