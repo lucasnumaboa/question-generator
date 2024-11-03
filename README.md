@@ -2,6 +2,8 @@
 
 Um aplicativo Python com interface gráfica que permite aos usuários gerar questionários interativos em HTML a partir de entradas de texto estruturadas. Utiliza a biblioteca `ttkbootstrap` para uma interface aprimorada.
 
+A idéia dessa ferramenta é disponibilizar uma ferramenta para usar para estudar, por exemplo, solicitar a uma inteligência artificial para gerar as questões a partir de um PDF, então usar o programa para gerar o questionario para testar o conhecimento.
+
 ## Recursos
 
 - **Interface Intuitiva**: Facilita a entrada de dados de questionários.
